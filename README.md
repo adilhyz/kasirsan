@@ -7,9 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Kasir-San | Sistem Manajemen Kasir
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Kasirsan, Aplikasi yang menggunakan bahasa PHP dengan Laravel 10 sebagai framewok. PHP memberikan pondasi kokoh, juga Laravel menjadikannya menarik menurut saya untuk dikembangkan. kasirsan lebih dari sekadar alat pembayaran:
+
+## Kebutuhan
+- PHP Version >= 7.3
+- [PHP Composer](https://getcomposer.org/download/)
+- Web Server (Test on Apache), Database (MySQL) / [XAMPP](https://www.apachefriends.org/download.html) (Recommended)
+
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## About Laravel
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -19,7 +28,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
